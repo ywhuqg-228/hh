@@ -1,5 +1,5 @@
 # hh
-# Егор Шульгин🚀 Python-разработчик / Backend Developer
+# Егор Шульгин / Backend Developer
 
 ## 👋 Обо мне
 Backend-разработчик с опытом работы 3 месяца. Специализируюсь на Python, HTML, CSS и С. Ищу интересные проекты в сфере финтеха.
@@ -10,7 +10,7 @@ Backend-разработчик с опытом работы 3 месяца. Сп
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🏗️ Мои проекты
-Проектом пока нету
+Проектов пока нету
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@whyyhgr)
